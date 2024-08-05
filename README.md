@@ -9,6 +9,9 @@ fetching and saving quotes, category-wise organization, light and dark themes, s
 detailed quote screens, random background images and font families, quote wallpaper creation,
 and setting device wallpapers, the app offers a comprehensive solution for users to discover and
 engage with uplifting quotes that resonate with them.
+
+
+
 =====Screenshots====
 <p>
   <img src="https://github.com/user-attachments/assets/b5759ba3-e90b-41bf-a235-8f91fe1858ce" height="400px" width="200px"/>
