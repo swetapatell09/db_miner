@@ -1,0 +1,412 @@
+[
+  {
+    "id": 1,
+    "name": "Love",
+    "images": "assets/image/r1.png",
+    "image": [
+      "assets/image/p1.png",
+      "assets/image/p2.png",
+      "assets/image/p3.png",
+      "assets/image/p4.png",
+      "assets/image/p5.png",
+      "assets/image/p6.png",
+      "assets/image/p7.png",
+      "assets/image/p8.png",
+      "assets/image/p9.png",
+      "assets/image/p10.png"
+    ],
+    "quotes": [
+      "“I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle.”",
+      "“You've gotta dance like there's nobody watching,\nLove like you'll never be hurt.”",
+      "“You know you're in love when you can't fall asleep because reality is finally better than your dreams.”",
+      "“A friend is someone who knows all about you and still loves you.”",
+      "“Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.”",
+      "“We accept the love we think we deserve.”",
+      "“It is better to be hated for what you are than to be loved for what you are not.”",
+      "“As he read, I fell in love the way you fall asleep: slowly, and then all at once.”",
+      "“It is not a lack of love, but a lack of friendship that makes unhappy marriages.”",
+      "“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference.”"
+    ],
+    "author": [
+      "Marilyn Monroe",
+      "William W. Purkey",
+      " Dr. Seuss",
+      " Elbert Hubbard",
+      "Martin Luther King Jr",
+      "Stephen Chbosky",
+      "Andre Gide",
+      "John Green",
+      "Friedrich Nietzsche",
+      "Elie Wiesel"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Motivational",
+    "images": "assets/image/r1.png",
+    "image": [
+      "assets/image/p1.png",
+      "assets/image/p2.png",
+      "assets/image/p3.png",
+      "assets/image/p4.png",
+      "assets/image/p5.png",
+      "assets/image/p6.png",
+      "assets/image/p7.png",
+      "assets/image/p8.png",
+      "assets/image/p9.png",
+      "assets/image/p10.png"
+    ],
+    "quotes": [
+      "“I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. ”",
+      "“Attitude is a choice. Happiness is a choice. Optimism is a choice. Kindness is a choice. Giving is a choice. Respect is a choice. Whatever choice you make makes you. Choose wisely.”",
+      "“Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.”",
+      "“Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.”",
+      "“Live the Life of Your Dreams: Be brave enough to live the life of your dreams according to your vision and purpose instead of the expectations and opinions of others.”",
+      "“It’s only after you’ve stepped outside your comfort zone that you begin to change, grow, and transform.”",
+      "“The truth is, unless you let go, unless you forgive yourself, unless you forgive the situation, unless you realize that the situation is over, you cannot move forward.”",
+      "“Do what is right, not what is easy nor what is popular.”",
+      "“Success is not how high you have climbed, but how you make a positive difference to the world.”",
+      "“Pursue what catches your heart, not what catches your eyes.”"
+    ],
+    "author": [
+      "Frank Herbert",
+      "Roy T. Bennett",
+      "Roy T. Bennett",
+      "Roy T. Bennett",
+      "Roy T. Bennett",
+      "Roy T. Bennett",
+      "Roy T. Bennett",
+      "Roy T. Bennett",
+      "Roy T. Bennett",
+      "Roy T. Bennett"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Art",
+    "images": "assets/image/r1.png",
+    "image": [
+      "assets/image/p1.png",
+      "assets/image/p2.png",
+      "assets/image/p3.png",
+      "assets/image/p4.png",
+      "assets/image/p5.png",
+      "assets/image/p6.png",
+      "assets/image/p7.png",
+      "assets/image/p8.png",
+      "assets/image/p9.png",
+      "assets/image/p10.png"
+    ],
+    "quotes": [
+      "“Everything you can imagine is real.”",
+      "“Eleanor was right. She never looked nice. She looked like art, and art wasn't supposed to look nice; it was supposed to make you feel something.”",
+      "“A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.”",
+      "“Painting is poetry that is seen rather than felt, and poetry is painting that is felt rather than seen.”",
+      "“You must have chaos within you to give birth to a dancing star.”",
+      "“Every child is an artist. The problem is how to remain an artist once he grows up.”",
+      "“It is good to love many things, for therein lies the true strength, and whosoever loves much performs much, and can accomplish much, and what is done in love is well done.”",
+      "“The most beautiful experience we can have is the mysterious. It is the fundamental emotion that stands at the cradle of true art and true science.”",
+      "“Art is the lie that enables us to realize the truth.”",
+      "“A painter should begin every canvas with a wash of black, because all things in nature are dark except where exposed by the light.”"
+    ],
+    "author": [
+      "Pablo Picasso",
+      "Rainbow Rowell",
+      "George Bernard Shaw",
+      "Leonardo da Vinci",
+      "Friedrich Nietzsche",
+      " Pablo Picasso",
+      "Vincent Van Gogh",
+      "Albert Einstein",
+      "Pablo Picasso",
+      "Leonardo da Vinci"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Success",
+    "images": "assets/image/r1.png",
+    "image": [
+      "assets/image/p1.png",
+      "assets/image/p2.png",
+      "assets/image/p3.png",
+      "assets/image/p4.png",
+      "assets/image/p5.png",
+      "assets/image/p6.png",
+      "assets/image/p7.png",
+      "assets/image/p8.png",
+      "assets/image/p9.png",
+      "assets/image/p10.png"
+    ],
+    "quotes": [
+      "“Success is not final, failure is not fatal: it is the courage to continue that counts.”",
+      "“I can't give you a sure-fire formula for success, but I can give you a formula for failure: try to please everybody all the time.”\n",
+      "“If at first you don't succeed, try, try again. Then quit. No use being a damn fool about it.”",
+      "“Try not to become a man of success. Rather become a man of value.”",
+      "“Success is not how high you have climbed, but how you make a positive difference to the world.”",
+      "“It is better to fail in originality than to succeed in imitation.”",
+      "“So be sure when you step, Step with care and great tact. And remember that life's A Great Balancing Act. And will you succeed? Yes! You will, indeed! (98 and ¾ percent guaranteed) Kid, you'll move mountains.”",
+      "“Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.”",
+      "“Success is getting what you want, happiness is wanting what you get”",
+      "“Anyone whose goal is 'something higher' must expect someday to suffer vertigo. What is vertigo? Fear of falling? No, Vertigo is something other than fear of falling. It is the voice of the emptiness below us which tempts and lures us.”"
+    ],
+    "author":[
+      "Winston S. Churchill",
+      "Herbert Bayard Swope",
+      "W.C. Fields",
+      "Albert Einstein",
+      "Roy T. Bennett",
+      "Herman Melville",
+      "Dr. Seuss",
+      "Steve Maraboli",
+      " W.P. Kinsella",
+      " Milan Kundera"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "God",
+    "images": "assets/image/r1.png",
+    "image": [
+      "assets/image/p1.png",
+      "assets/image/p2.png",
+      "assets/image/p3.png",
+      "assets/image/p4.png",
+      "assets/image/p5.png",
+      "assets/image/p6.png",
+      "assets/image/p7.png",
+      "assets/image/p8.png",
+      "assets/image/p9.png",
+      "assets/image/p10.png"
+    ],
+    "quotes":[
+      "“If we find ourselves with a desire that nothing in this world can satisfy, the most probable explanation is that we were made for another world.”",
+      "“All God does is watch us and kill us when we get boring. We must never, ever be boring.”",
+      "“The Christian does not think God will love us because we are good, but that God will make us good because He loves us.”",
+      "“When his life was ruined, his family killed, his farm destroyed, Job knelt down on the ground and yelled up to the heavens, \"Why god? Why me?\" and the thundering voice of God answered.”",
+      "“Prayer is not asking. It is a longing of the soul. It is daily admission of one's weakness. It is better in prayer to have a heart without words than words without a heart.”",
+      "“I think God, in creating man, somewhat overestimated his ability.”",
+      "“To be a Christian means to forgive the inexcusable because God has forgiven the inexcusable in you.”",
+      "“God has no religion.”",
+      "“We are not necessarily doubting that God will do the best for us; we are wondering how painful the best will turn out to be.”",
+      "“God will not look you over for medals, degrees or diplomas but for scars.”"
+    ],
+    "author":[
+      "C.S. Lewis",
+      "Chuck Palahniuk",
+      "C.S. Lewis",
+      "Stephen King",
+      "Mahatma Gandhi",
+      "Oscar Wilde",
+      "C.S. Lewis",
+      "Mahatma Gandhi",
+      " C.S. Lewis",
+      "Elbert Hubbard"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Truth",
+    "images": "assets/image/r1.png",
+    "image": [
+      "assets/image/p1.png",
+      "assets/image/p2.png",
+      "assets/image/p3.png",
+      "assets/image/p4.png",
+      "assets/image/p5.png",
+      "assets/image/p6.png",
+      "assets/image/p7.png",
+      "assets/image/p8.png",
+      "assets/image/p9.png",
+      "assets/image/p10.png"
+    ],
+    "quotes":[
+      "“I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle.”",
+      "“If you tell the truth, you don't have to remember anything.”",
+      "“When someone loves you, the way they talk about you is different. You feel safe and comfortable.”",
+      "“The reason I talk to myself is because I’m the only one whose answers I accept.”",
+      "“The truth is rarely pure and never simple.”",
+      "“The truth.\" Dumbledore sighed. \"It is a beautiful and terrible thing, and should therefore be treated with great caution.”",
+      "“A lie can travel half way around the world while the truth is putting on its shoes.”",
+      "“Never tell the truth to people who are not worthy of it.”",
+      "“Perhaps one did not want to be loved so much as to be understood.”",
+      "“When I despair, I remember that all through history the way of truth and love have always won. There have been tyrants and murderers.”"
+    ],
+    "author":[
+      "Marilyn Monroe",
+      " Mark Twain",
+      "Jess C. Scott",
+      " George Carlin",
+      "Oscar Wilde",
+      "J.K. Rowling",
+      " Mark Twain",
+      " Mark Twain",
+      "George Orwell",
+      " Mahatma Gandhi"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Romance",
+    "images": "assets/image/r1.png",
+    "image": [
+      "assets/image/p1.png",
+      "assets/image/p2.png",
+      "assets/image/p3.png",
+      "assets/image/p4.png",
+      "assets/image/p5.png",
+      "assets/image/p6.png",
+      "assets/image/p7.png",
+      "assets/image/p8.png",
+      "assets/image/p9.png",
+      "assets/image/p10.png"
+    ],
+    "quotes":[
+      "“There is no pretending,\" Jace said with absolute clarity. \"I love you, and I will love you until I die, and if there is life after that, I'll love you then.”",
+      "“When someone loves you, the way they talk about you is different. You feel safe and comfortable.”",
+      "“He's like a drug for you, Bella.”",
+      "“You can't force love, I realized. It's there or it isn't. If it's not there, you've got to be able to admit it.”",
+      "“Some women choose to follow men, and some women choose to follow their dreams. If you're wondering which way to go.”",
+      "“The best love is the kind that awakens the soul and makes us reach for more, that plants a fire in our hearts and brings peace to our minds.”",
+      "“And I'm suppose to sit by while you date boys and fall in love with someone else, get married...?\" His voice tightened. \"And meanwhile, I'll die a little bit more every day, watching.”",
+      "“I heard what you said. I’m not the silly romantic you think. I don’t want the heavens or the shooting stars. I don’t want gemstones or gold. I have those things already.”",
+      "“The very essence of romance is uncertainty.”",
+      "“They didn’t agree on much. In fact, they didn’t agree on anything. They fought all the time and challenged each other ever day. But despite their differences, they had one important thing in common.”"
+    ],
+    "author":[
+      "Cassandra Clare",
+      "Jess C. Scott",
+      "Stephenie Meyer",
+      "Richelle Mead",
+      "Lady Gaga",
+      "Nicholas Sparks",
+      "Cassandra Clare",
+      "Shana Abe",
+      "Oscar Wilde",
+      "Nicholas Sparks"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Life",
+    "images": "assets/image/r1.png",
+    "image": [
+      "assets/image/p1.png",
+      "assets/image/p2.png",
+      "assets/image/p3.png",
+      "assets/image/p4.png",
+      "assets/image/p5.png",
+      "assets/image/p6.png",
+      "assets/image/p7.png",
+      "assets/image/p8.png",
+      "assets/image/p9.png",
+      "assets/image/p10.png"
+    ],
+    "quotes":[
+      "“I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst.”",
+      "“You've gotta dance like there's nobody watching,\nLove like you'll never be hurt,\nSing like there's nobody listening.”",
+      "“You only live once, but if you do it right, once is enough.”",
+      "“In three words I can sum up everything I've learned about life: it goes on.”",
+      "“To live is the rarest thing in the world. Most people exist, that is all.”",
+      "“Insanity is doing the same thing, over and over again, but expecting different results.”",
+      "“It is better to be hated for what you are than to be loved for what you are not.”",
+      "“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”",
+      "“It does not do to dwell on dreams and forget to live.”",
+      "“Good friends, good books, and a sleepy conscience: this is the ideal life.”"
+    ],
+    "author":[
+      "Marilyn Monroe",
+      "William W. Purkey",
+      "Mae West",
+      "Robert Frost",
+      "Oscar Wilde",
+      "Narcotics Anonymous",
+      " Andre Gide",
+      "Albert Einstein",
+      " J.K. Rowling",
+      "Mark Twain"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Car",
+    "images": "assets/image/r1.png",
+    "image": [
+      "assets/image/p1.png",
+      "assets/image/p2.png",
+      "assets/image/p3.png",
+      "assets/image/p4.png",
+      "assets/image/p5.png",
+      "assets/image/p6.png",
+      "assets/image/p7.png",
+      "assets/image/p8.png",
+      "assets/image/p9.png",
+      "assets/image/p10.png"
+    ],
+    "quotes":[
+      "I spent a lot of money on booze, birds and fast cars. The rest I just squandered.",
+      "Self-driving cars are the natural extension of active safety and obviously something we should do.",
+      "Everything in life is somewhere else, and you get there in a car.",
+      "It's like driving a car at night. You never see further than your headlights, but you can make the whole trip that way.",
+      "The cars we drive say a lot about us.",
+      "It's a never ending battle of making your cars better and also trying to be better yourself.",
+      "I know a lot about cars, man. I can look at any car's headlights and tell you exactly which way it's coming.",
+      "We aren't addicted to oil, but our cars are.",
+      "Here comes 40. I'm feeling my age and I've ordered the Ferrari. I'm going to get the whole mid-life crisis package.",
+      "In the history of the world, no one has ever washed a rented car."
+    ],
+    "author": [
+      "George Best",
+      "Elon Musk",
+      "E. B. White",
+      "E. L. Doctorow",
+      "Alexandra Paul",
+      "Dale Earnhardt",
+      "Mitch Hedberg",
+      "James Woolsey",
+      "Keanu Reeves",
+      "Lawrence Summers"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Dad",
+    "images": "assets/image/r1.png",
+    "image": [
+      "assets/image/p1.png",
+      "assets/image/p2.png",
+      "assets/image/p3.png",
+      "assets/image/p4.png",
+      "assets/image/p5.png",
+      "assets/image/p6.png",
+      "assets/image/p7.png",
+      "assets/image/p8.png",
+      "assets/image/p9.png",
+      "assets/image/p10.png"
+    ],
+    "quotes":[
+      "When one has not had a good father, one must create one.",
+      "A father is a man who expects his son to be as good a man as he meant to be.",
+      "The child is father of the man.",
+      "My father? I never knew him. Never even seen a picture of him.",
+      "It was my father who taught me to value myself.",
+      "Undeservedly you will atone for the sins of your fathers.",
+      "When I was 18, I thought my father was pretty dumb. After a while when I got to be 21.",
+      "All the learnin' my father paid for was a bit o' birch at one end and an alphabet at the other.",
+      "When I come home, my daughter will run to the door and give me a big hug, and everything that's happened that day just melts away.",
+      "Humor is always based on a modicum of truth. Have you ever heard a joke about a father-in-law?"
+    ],
+    "author": [
+      "Friedrich Nietzsche",
+      "Frank A. Clark",
+      "William Wordsworth",
+      "Eminem",
+      "Dawn French",
+      "Horace",
+      "Frank Butler",
+      "George Eliot",
+      "Hugh Jackman",
+      "Dick Clark"
+    ]
+  }
+]
